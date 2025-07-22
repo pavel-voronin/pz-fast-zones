@@ -1,0 +1,8 @@
+id=cf_home_fastzones
+modversion=1.0.0
+name=[B42] Home Inventory Improved: Fast Zones Add-on
+author=kolpaque
+description=Use keybinds to create or remove Home Inventory zones based on the current room or building
+poster=poster.png
+versionMin=42.0
+required=\cf_home
